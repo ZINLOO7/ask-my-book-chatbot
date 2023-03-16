@@ -1,9 +1,9 @@
 {
 	"type": "package",
-	"handle": "ask-my-book-chat-api",
+	"handle": "QA_Book",
 	"version": "0.0.23",
 	"description": null,
-	"author": "Enias",
+	"author": "Lloyd",
 	"entrypoint": "Unused",
 	"public": true,
 	"plugin": null,
@@ -27,7 +27,7 @@
 		}
 	},
 	"steamshipRegistry": {
-		"tagline": "Example using Steamship to Deploy LangChain",
+		"tagline": "Steamship_Deploy_LangChain",
 		"tagline2": null,
 		"usefulFor": null,
 		"videoUrl": null,
@@ -35,8 +35,8 @@
 		"demoUrl": null,
 		"blogUrl": null,
 		"jupyterUrl": null,
-		"authorGithub": "EniasCailliau",
-		"authorName": "Enias",
+		"authorGithub": "Lloyd",
+		"authorName": "lloyd",
 		"authorEmail": null,
 		"authorTwitter": null,
 		"authorUrl": null,
